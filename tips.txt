@@ -1,0 +1,6 @@
+#保存提交
+git add .; git commit -m "$(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"; git push
+
+
+#创建新文章
+hugo new content content/posts/{新文章}.md
