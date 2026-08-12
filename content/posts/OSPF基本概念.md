@@ -2,12 +2,9 @@
 date = '2026-08-13T02:45:18+08:00'
 draft = false
 title = 'OSPF基本概念'
+toc = true
 
 +++
-
-```toc
-
-```
 
 ## 1.router-ID
 
