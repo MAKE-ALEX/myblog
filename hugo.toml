@@ -2,3 +2,8 @@ baseURL = 'https://blog.xhdzy.top/'
 locale = 'zh-cn'
 title = 'My Blog'
 theme = 'hugo-dead-simple'
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
