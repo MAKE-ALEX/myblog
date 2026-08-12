@@ -3,4 +3,6 @@ public/
 resources/
 .DS_Store
 tips.txt
-content/posts/.obsidian
+.obsidian/
+**/.obsidian/
+
